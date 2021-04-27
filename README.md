@@ -1,8 +1,6 @@
-# Blog Template
+# Blog template
 
-It's use SQL database to store all blog posts, add and edit using WTFlask.
+It is using the SQL database to store all blog posts, users and comments.
+You can add and edit posts/comments with WTFlask.
 
 I used a Bootstrap Example for the HTML and CSS.
-
-# To Try
-Run the main.py and open the URL showed in your terminal
